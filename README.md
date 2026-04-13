@@ -49,7 +49,9 @@ Training a full 1.5B parameter model normally requires ~24GB of GPU RAM and days
 
 ---
 
-## Project Structure
+## 📁 Project Structure
+
+```
 ai-code-reviewer/
 │
 ├── data/
@@ -64,8 +66,7 @@ ai-code-reviewer/
 │
 ├── requirements.txt                 # All Python dependencies
 └── README.md                        # You are here
----
-
+```
 ## Training Details
 
 The model was fine-tuned on a custom dataset I built from scratch — real-world code patterns covering the most common categories of code problems:
