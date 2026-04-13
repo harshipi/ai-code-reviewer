@@ -106,7 +106,7 @@ Each example is formatted in **ChatML format** — the same conversational forma
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-code-reviewer.git
+git clone https://github.com/harshipi/ai-code-reviewer.git
 cd ai-code-reviewer
 ```
 
