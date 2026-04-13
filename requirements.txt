@@ -1,0 +1,10 @@
+torch>=2.1.0
+transformers>=4.40.0
+peft>=0.10.0
+trl>=0.8.6
+bitsandbytes>=0.43.0
+datasets>=2.18.0
+accelerate>=0.27.0
+streamlit>=1.32.0
+markdown2>=2.4.13
+sentencepiece>=0.2.0
